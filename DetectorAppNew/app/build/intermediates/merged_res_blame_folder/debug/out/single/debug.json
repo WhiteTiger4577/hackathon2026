@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.detectorapp-merged_res-31:/drawable_bg_panel_rounded.xml.flat",
+        "source": "com.example.detectorapp-main-33:/drawable/bg_panel_rounded.xml"
+    },
+    {
+        "merged": "com.example.detectorapp-merged_res-31:/drawable_status_dot.xml.flat",
+        "source": "com.example.detectorapp-main-33:/drawable/status_dot.xml"
+    },
+    {
+        "merged": "com.example.detectorapp-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.detectorapp-main-33:/layout/activity_main.xml"
+    }
+]

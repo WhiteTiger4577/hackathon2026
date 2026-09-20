@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_void">#0A0E14</color>
+    <color name="bg_panel">#121A24</color>
+    <color name="border">#223047</color>
+    <color name="text_primary">#E7ECF2</color>
+    <color name="text_muted">#6E7C8C</color>
+    <color name="safe">#35C7A0</color>
+    <color name="alert">#FF6A3D</color>
+</resources>

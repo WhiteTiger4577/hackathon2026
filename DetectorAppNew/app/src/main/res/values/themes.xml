@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.DetectorApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/bg_void</item>
+        <item name="colorPrimary">@color/safe</item>
+        <item name="colorOnPrimary">@color/bg_void</item>
+        <item name="android:statusBarColor">@color/bg_void</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+    </style>
+</resources>

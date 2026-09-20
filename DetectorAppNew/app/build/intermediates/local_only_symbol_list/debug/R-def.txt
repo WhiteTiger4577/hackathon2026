@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color alert
+color bg_panel
+color bg_void
+color border
+color safe
+color text_muted
+color text_primary
+drawable bg_panel_rounded
+drawable status_dot
+id connectButton
+id logText
+id statusDot
+id statusText
+layout activity_main
+string app_name
+style Theme.DetectorApp
