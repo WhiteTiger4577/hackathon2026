@@ -1,1 +1,1 @@
-Project DHARMA (Detecting Hostile APs, Reporting via Mobile Alerts)
+ALIBI — Access-point Lie Identification via Beacon Inspection
